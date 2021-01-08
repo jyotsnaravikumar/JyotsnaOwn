@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-08T20:09:25.109Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VbdbfpFcDF0IV2SRByYP" version="14.1.8" type="github" pages="2">
+<mxfile modified="2021-01-08T20:10:11.847Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7nxFfyXonjK2RXvzSV01" version="14.1.8" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="869" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -330,6 +330,9 @@
         </mxCell>
         <mxCell id="-64UF5Jsl_rYeSusTVw_-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Cache.svg;" vertex="1" parent="-64UF5Jsl_rYeSusTVw_-1">
           <mxGeometry x="560" y="302" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-64UF5Jsl_rYeSusTVw_-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;" vertex="1" parent="-64UF5Jsl_rYeSusTVw_-1">
+          <mxGeometry x="690" y="302" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
